@@ -1,1 +1,1 @@
-ica.se
+*://*.example.com/*
